@@ -1,4 +1,4 @@
----
+--- 
 
 This code represents a coffee machine simulator implemented in Java. It consists of three classes: `Coffee`, `CoffeeMachine`, and `Main`. 
 
